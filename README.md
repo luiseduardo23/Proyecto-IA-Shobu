@@ -1,4 +1,4 @@
-# Shobu-Proyecto-de-IA
+# Proyecto-de-IA-Shobu
 
 Para mas detalles del proyecto abrir el archivo "_Proyecto Shobu.pdf_".
 
