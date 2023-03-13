@@ -1,3 +1,3 @@
 # Shobu-Proyecto-de-IA
 
-**Nota:** Ejecutar el archivo _ _ProyectoFinal(ventana).py_ _ para visualizar el programa.
+**Nota:** Ejecutar el archivo _ProyectoFinal(ventana).py_ para visualizar el programa.
